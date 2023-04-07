@@ -17,7 +17,7 @@ const contacts = [
     { phone: '1234567890', name: '1', age: 1 },
     { phone: '1234567890', name: '2', age: 2 },
     { phone: '1234567890', name: '3', age: 3 }
-];
+];```
 
 The message template should be a string that includes placeholders for the contact’s information. For example:
 
